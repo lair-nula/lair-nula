@@ -1,5 +1,5 @@
 # 👾 Developer & Pentester 🤖
-> I LOVE PROGRAMMING!
+> I LOVE PROGRAMMING & HACKING!
 
 ## ✨ Find me everywhere as: Lair Nula 👻
 
