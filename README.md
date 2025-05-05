@@ -10,7 +10,7 @@
 | [CODERED - Mastering Mobile Hacking](https://codered.eccouncil.org/certificate/cb58164e-e3b7-4358-a835-635fa0c7dff0?logged=false)     |
 | [MICROSOFT - SC-900](https://www.credly.com/earner/earned/badge/8f06bc7e-b0e3-4cfc-9f03-90b0e65f4725)     |
 | [SCRUM STUDY - SFC](https://www.scrumstudy.com/certification/verify?type=SFC&number=740006)     |
-| [OTHERS](https://drive.google.com/drive/u/3/folders/1tTbs8g1pCFhxNlsqaRvc0hLHN7Z_5CPq)     |
+| [🔗 OTHERS](https://drive.google.com/drive/u/3/folders/1tTbs8g1pCFhxNlsqaRvc0hLHN7Z_5CPq)     |
 
 ---
 
